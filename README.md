@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardZozimo&hide=contribs,prs)
 
-![Meu Perfil Rocketseat]https://img.shields.io/badge/Meu%20Perfil-Rocketseat-green
+![Meu Perfil Rocketseat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-green)
