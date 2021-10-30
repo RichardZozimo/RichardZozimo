@@ -1,8 +1,8 @@
 # Hi there, I'm Richard Zozimo 👋
 
 - 🔭 I’m currently working as Administrative Assistant on Araujo Drugstore
-- 🌱 I’m currently learning Node.js and Java
-- 📚 I’m study Node.js and Mobile Frameworks 
+- 🌱 I’m currently learning Node.js
+- 📚 I’m study Node.js, Express and Prisma
 - 💬 Ask me about Javascript, Node.js
 - 😄 Pronouns: "Him" | "His"
 - 🎯 Hobbies : Books, Games, Kart, Soccer and Movies
