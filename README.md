@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardZozimo&hide=contribs,prs)
 
-[![Meu Perfil Rocketseat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-green)](https://app.rocketseat.com.br/me/richard-zozimo-07706)
 [![Meu Perfil Github](https://img.shields.io/github/followers/RichardZozimo?label=followers&labelColor=0D0D0D&logo=Github)](https://https://github.com/RichardZozimo)
 
 	
