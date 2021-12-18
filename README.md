@@ -5,7 +5,7 @@
 - 📚 I’m study analyze and develop systems on Anhanguera
 - 😄 Pronouns: "Him" | "His"
 - 🎯 Hobbies : Books, Games, Race, Soccer and Movies
-- 📝 See my [resume](https://github.com/RichardZozimo/RichardZozimo/blob/main/RichardZozimo.pdf)
+
 
 ## 🛠 | Tech Stacks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
