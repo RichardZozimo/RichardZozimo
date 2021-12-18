@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C-sharp, dotNet
 - 📚 I’m study analyze and develop systems on Anhanguera
 - 😄 Pronouns: "Him" | "His"
-- 🎯 Hobbies : Books, Games, Kart, Soccer and Movies
+- 🎯 Hobbies : Books, Games, Race, Soccer and Movies
 - 📝 See my [resume](https://github.com/RichardZozimo/RichardZozimo/blob/main/RichardZozimo.pdf)
 
 ## 🛠 | Tech Stacks
