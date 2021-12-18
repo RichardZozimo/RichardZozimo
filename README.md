@@ -5,8 +5,7 @@
 - 📚 I’m study analyze and develop systems on Anhanguera
 - 😄 Pronouns: "Him" | "His"
 - 🎯 Hobbies : Books, Games, Kart, Soccer and Movies
-- 📝 See my resume by <a  target="_blank" href="https://www.canva.com/design/DAEke0QV-WY/6SWTuIdyLiZcNEYG2mUhaw/view?utm_content=DAEke0QV-WY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
-<br><br>
+- 📝 See my resume by 
 
 ## 🛠 | Tech Stacks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
