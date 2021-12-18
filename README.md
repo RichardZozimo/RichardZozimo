@@ -1,6 +1,6 @@
 # Olá, sou Richard Zózimo 👋
 
-- [Meu Curriculo]()
+- [Meu Curriculo](https://github.com/RichardZozimo/RichardZozimo/blob/main/RichardZozimo.pdf)
 - 🔭 Atualmente trabalho como Auxiliar Administrativo na Drogaria Araujo
 - 🌱 Atualmente, estou aprendendo dó sustenido, dotNet
 - 📚 Estou estudando analisar e desenvolver sistemas na Anhanguera
