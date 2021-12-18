@@ -1,7 +1,7 @@
 # Hi there, I'm Richard Zozimo 👋
 
 - 🔭 I’m currently working as Administrative Assistant on Araujo Drugstore
-- 🌱 I’m currently learning C-sharp, .Net
+- 🌱 I’m currently learning C-sharp, dotNet
 - 📚 I’m study analyze and develop systems on Anhanguera
 - 😄 Pronouns: "Him" | "His"
 - 🎯 Hobbies : Books, Games, Kart, Soccer and Movies
