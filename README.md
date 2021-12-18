@@ -1,10 +1,11 @@
-# Hi there, I'm Richard Zozimo 👋
+# Olá, sou Richard Zózimo 👋
 
-- 🔭 I’m currently working as Administrative Assistant on Araujo Drugstore
-- 🌱 I’m currently learning C-sharp, dotNet
-- 📚 I’m study analyze and develop systems on Anhanguera
-- 😄 Pronouns: "Him" | "His"
-- 🎯 Hobbies : Books, Games, Race, Soccer and Movies
+- [Meu Curriculo]()
+- 🔭 Atualmente trabalho como Auxiliar Administrativo na Drogaria Araujo
+- 🌱 Atualmente, estou aprendendo dó sustenido, dotNet
+- 📚 Estou estudando analisar e desenvolver sistemas na Anhanguera
+- 😄 Pronomes: "Ele" | "Seu"
+- 🎯 Hobbies: livros, jogos, corrida, futebol e filmes
 
 
 ## 🛠 | Tech Stacks
