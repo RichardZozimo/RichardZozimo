@@ -1,9 +1,8 @@
 # Hi there, I'm Richard Zozimo 👋
 
 - 🔭 I’m currently working as Administrative Assistant on Araujo Drugstore
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning .net
 - 📚 I’m study analyze and develop systems on Anhanguera
-- 💬 Ask me about Javascript, Node.js
 - 😄 Pronouns: "Him" | "His"
 - 🎯 Hobbies : Books, Games, Kart, Soccer and Movies
 - 📝 See my resume by <a  target="_blank" href="https://www.canva.com/design/DAEke0QV-WY/6SWTuIdyLiZcNEYG2mUhaw/view?utm_content=DAEke0QV-WY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
