@@ -2,7 +2,7 @@
 
 - [Meu Curriculo](https://github.com/RichardZozimo/RichardZozimo/blob/main/RichardZozimo.pdf)
 - 🔭 Atualmente trabalho como Auxiliar Administrativo na Drogaria Araujo
-- 🌱 Atualmente, estou aprendendo Angular
+- 🌱 Atualmente, estou aprendendo Angular, TypeScript
 - 📚 Estou estudando analise e desenvolvimento de sistemas na Anhanguera
 - 😄 Pronomes: "Ele" | "Seu"
 - 🎯 Hobbies: livros, jogos, corrida, futebol e filmes
