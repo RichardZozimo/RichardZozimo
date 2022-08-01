@@ -1,8 +1,8 @@
 # Olá, sou Richard Zózimo 👋
 
 - [Meu Curriculo](https://github.com/RichardZozimo/RichardZozimo/blob/main/RichardZozimo.pdf)
-- 🔭 Atualmente trabalho como Auxiliar Administrativo na Drogaria Araujo
-- 🌱 Atualmente, estou aprendendo Angular, TypeScript
+- 🔭 Atualmente trabalho como Desenvolvedor de Software na Flag Intelliwan
+- 🌱 Atualmente, estou aprendendo .Net e React
 - 📚 Estou estudando analise e desenvolvimento de sistemas na Anhanguera
 - 😄 Pronomes: "Ele" | "Seu"
 - 🎯 Hobbies: livros, jogos, corrida, futebol e filmes
