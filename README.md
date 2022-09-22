@@ -2,10 +2,10 @@
 
 - [Meu Curriculo](https://github.com/RichardZozimo/RichardZozimo/blob/main/RichardZozimo.pdf)
 - 🔭 Atualmente trabalho como Desenvolvedor de Software na Flag Intelliwan
-- 🌱 Atualmente, estou aprendendo .Net e React
-- 📚 Estou estudando analise e desenvolvimento de sistemas na Anhanguera
+- 🌱 Atualmente, estou focando meu aprendizado em .Net e React
+- 📚 Formado em Analise e Desenvolvimento de Sistemas na Faculdade Anhanguera
 - 😄 Pronomes: "Ele" | "Seu"
-- 🎯 Hobbies: livros, jogos, corrida, futebol e filmes
+- 🎯 Hobbies: livros, jogos, corrida e futebol
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
